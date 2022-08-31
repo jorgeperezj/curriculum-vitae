@@ -1,0 +1,39 @@
+callBack([
+    {
+        "lastname": "Perez",
+        "rols" : "QA TESTER - JUNIOR DEVELOPER · BUCARAMANGA · COLOMBIA.",
+        "rol" : "Junior Developer",
+        "descriptionQA": "with experience working in the analysis and implementation of manual, functional and non-functional tests to web page processes, ensuring the quality of their delivery.",
+        "descriptionDev": "with knowledge in web standards (HTML, CSS and JavaScript) and databases.",
+        "functions": "Functions: ",
+        "menu": {
+            "about": "About",
+            "experience": "Experience",
+            "education": "Education",
+            "skills": "Skills",
+            "interests": "Interests",
+            "certification": "Certifications"
+        },
+        "datesExp": {
+            "unab": {
+                "dates": "February 2019 - August 2019",
+                "functions": "Website testing, database migration, web development with PHP, customer service, technical support, computer maintenance."
+            },
+            "synaptek": {
+                "dates": "August 2020 - Present",
+                "functions": "Testing team leader - Documentation of test scenarios - Management of tickets and deliveries to production - Manual tests - Functional and non-functional tests - Automated tests with Cypress to web page with a focus on dental clinics."
+            }
+        },
+        "datesEdu": {
+            "sena": {
+                "dates": "July 2017 - July 2019"
+            },
+            "uis": {
+                "dates": "June 2021 - November 2021"
+            },
+            "platzi": {
+                "dates": "January 2021 - Present"
+            }
+        }
+    }
+]);
